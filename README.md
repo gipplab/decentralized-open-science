@@ -15,4 +15,20 @@ We want to eliminate data silos and the dependency on nontransparent central ser
 
 ---
 
+## Content Protection
+One pillar for risk-less Open Science is data protection. 
+Our tools provide functionalities to obfuscate or anonymize sensitive data.
+
+## Intellectual Property Protection
+A second pillar is the attribution of intellectual property.
+Tools that prove and track ideation, research, and development with the help of decentralized time-stamping safeguard our Open Science projects.
+
+## Similarity Detection
+Lastly, similarity detection provides a powerful tool to detect wrongful attribution of intellectual property.
+
+
+
+
+
+
 
