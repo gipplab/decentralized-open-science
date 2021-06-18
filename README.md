@@ -23,7 +23,7 @@ Our tools provide functionalities to obfuscate or anonymize sensitive data.
 A second pillar is the attribution of intellectual property.
 Tools that prove and track ideation, research, and development with the help of decentralized time-stamping safeguard our Open Science projects.
 
-## Similarity Detection
+### Similarity Detection
 Similarity detection provides a powerful tool to detect wrongful attribution of intellectual property.
 
 ## Reliable Data Stores
@@ -31,6 +31,5 @@ Decentralized data stores offer the possibility to keep scientific data availabl
 
 ## Shared Computational Infrastructure
 We deploy Distributed Ledger Technology to reward and journalize computational incentive evaluation tasks and Open Science tools, helping institutions and researchers to combine their computational resources.
-
 
 
