@@ -1,3 +1,5 @@
+![DOS Logo](./logo.png)
+
 # Decentralized Open Science
 
 The Decentralized Open Science Subgroup, consisting of Marco Beck, Cornelius Ihle, and Dennis Trautwein, with the goal to employ decentralized information technology to foster the open science movement.
