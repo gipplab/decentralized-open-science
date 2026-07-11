@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="135" height="135" viewBox="0 0 588 588" version="1.1">
+  <metadata>
+    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#">
+      <cc:Work rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+        <dc:title>Open Science Information Infrastructure logo</dc:title>
+        <dc:creator>Moritz Schubotz; Cornelius Ihle; Dennis Trautwein</dc:creator>
+        <dc:source>https://raw.githubusercontent.com/gipplab/decentralized-open-science/refs/heads/main/logo.svg</dc:source>
+        <dc:description>Simplified and annotated derivative of the Decentralized Open Science logo. Prepared for manual editing and wiki use.</dc:description>
+        <dc:rights>Derivative adaptation credit: Marco Beck, Cornelius Ihle, Dennis Trautwein. Source artwork from the Decentralized Open Science project.</dc:rights>
+        <cc:license rdf:resource="https://creativecommons.org/licenses/by/4.0/"/>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <title>SI4OS square icon</title>
+  <style><![CDATA[
+    /*
+      CONFIGURATION
+      1) Background color:
+         Edit .bg { fill: none; } to a color like #ffffff or #1f2937.
+         Keep fill:none for a transparent background.
+
+      2) Line thickness:
+         Edit .icon-stroke { stroke-width: 3; } to another numeric value.
+
+      3) Foreground color:
+         Edit the stroke/fill values in .icon-stroke
+
+    */
+    .bg { fill: none; }
+    .icon-stroke {
+      fill: none;
+      stroke: #1f2937;
+      stroke-linecap: round;
+      stroke-linejoin: round;
+      stroke-width: 3;
+    }
+  ]]></style>
+  <!--
+    SQUARE CROP NOTE
+    This is the icon-only crop of the original banner logo.
+    The crop is centered on the symbol and scaled through the viewBox to 135x135 px.
+  -->
+  <rect id="Background" class="bg" x="0" y="0" width="588" height="588"/>
+  <g id="Icon" transform="translate(102 0)" class="icon-stroke">
+    <!-- Upper open half-circle / shackle: the open upper part of the symbol. -->
+    <g id="UpperHalfCircle">
+            <polyline id="Path-32" points="322.311444 265.604181 344.064703 257.12876 384.626918 279.966306 382.46441 245.521609 384.626918 196.935102 372.190734 135.365875 347.26797 181.034142"></polyline>
+            <polyline id="Path-33" points="344.064703 257.12876 382.46441 245.521609 347.26797 181.034142 384.626918 196.935102"></polyline>
+            <line x1="344.064703" y1="257.12876" x2="347.26797" y2="181.034142" id="Path-34"></line>
+            <polyline id="Path-35" points="347.26797 181.034142 326.108858 122.507066 372.190734 135.365875 337.645846 67.7472594 277.36104 18.1455936 268.097221 54.9897421 304.888346 60.8768471 311.287512 99.5898677"></polyline>
+            <polyline id="Path-36" points="326.108858 122.507066 311.287512 99.5898677 337.645846 67.7472594"></polyline>
+            <line x1="268.097221" y1="54.9897421" x2="311.287512" y2="99.5898677" id="Path-37"></line>
+            <polyline id="Path-55" points="268.097221 54.9897421 210.167642 38.0788586 164.771864 32.7669435 111.130055 50.7031592 78.7105165 73.9436067 57.0417816 109.008189 45.8639126 158.740742 27.237382 157.044893 1.62691833 158.740742"></polyline>
+            <polyline id="Path-56" points="277.36104 18.1455936 210.167642 38.0788586 161.344302 0"></polyline>
+            <polyline id="Path-58" points="161.344302 0 132.440937 26.1806766 81.4703738 29.2660008"></polyline>
+            <line x1="132.440937" y1="26.1806766" x2="111.130055" y2="50.7031592" id="Path-26"></line>
+            <line x1="132.440937" y1="26.1806766" x2="164.771864" y2="32.7669435" id="Path-59"></line>
+            <line x1="161.344302" y1="0" x2="81.4703738" y2="29.2660008" id="Path-60"></line>
+            <line x1="81.4703738" y1="29.2660008" x2="78.7105165" y2="73.9436067" id="Path-61"></line>
+            <polyline id="Path-62" points="81.4703738 29.2660008 39.2114408 66.0943179 57.0417816 109.008189"></polyline>
+            <line x1="78.7105165" y1="73.9436067" x2="39.2114408" y2="66.0943179" id="Path-63"></line>
+            <polyline id="Path-64" points="2.12691833 158.740742 45.0694148 116.348463 45.8639126 158.740742"></polyline>
+            <polyline id="Path-65" points="45.0694148 116.348463 57.0417816 109.008189 21.4178071 104.363581 2.12691833 158.740742"></polyline>
+            <line x1="21.4178071" y1="104.363581" x2="39.2114408" y2="66.0943179" id="Path-66"></line>
+            <line x1="161.344302" y1="1.77635684e-15" x2="277.36104" y2="18.3819784" id="Path-67"></line>
+    </g>
+    <!-- Bottom network body: the lower mesh / lock body of the symbol. -->
+    <g id="BottomNetworkBody">
+            <path d="M149.693586,271.732368 C166.491351,339.049746 174.890234,372.708434 174.890234,372.708434 C158.24267,393.691414 149.918888,404.182904 149.918888,404.182904 C121.359481,458.878535 107.079777,486.226351 107.079777,486.226351 C132.474632,524.46378 145.17206,543.582494 145.17206,543.582494 C147.603035,572.93974 148.818522,587.618363 148.818522,587.618363 C170.365471,585.302622 181.138946,584.144751 181.138946,584.144751 C213.242672,586.207537 229.294535,587.238929 229.294535,587.238929 C263.346685,581.700301 280.372759,578.930987 280.372759,578.930987 C321.669047,552.979512 342.317191,540.003775 342.317191,540.003775 C363.032205,508.245582 373.389712,492.366485 373.389712,492.366485 C380.881183,452.092885 384.626918,431.956085 384.626918,431.956085 C379.774461,392.457651 377.348233,372.708434 377.348233,372.708434 C349.437377,328.123995 335.481949,305.831776 335.481949,305.831776 L249.925817,271.618363 C183.10433,271.694366 149.693586,271.732368 149.693586,271.732368 Z" id="Path"></path>
+            <polyline id="Path-2" points="299.626918 523.806136 280.769922 578.618363 195.626918 511.618363 205.739964 547.979903"></polyline>
+            <polyline id="Path-3" points="181.626918 583.618363 205.959767 547.618363 280.626918 578.425982"></polyline>
+            <line x1="205.626918" y1="547.618363" x2="230.306752" y2="586.407387" id="Path-4"></line>
+            <line x1="299.626918" y1="523.806136" x2="195.626918" y2="511.618363" id="Path-5"></line>
+            <line x1="195.626918" y1="511.618363" x2="107.626918" y2="486.618363" id="Path-6"></line>
+            <line x1="195.626918" y1="511.618363" x2="145.473572" y2="541.516454" id="Path-7"></line>
+            <path d="M195.626918,511.618363 C194.303469,489.931614 193.641744,479.08824 193.641744,479.08824 L216.87342,436.955257 C272.042419,494.855843 299.626918,523.806136 299.626918,523.806136 L317.612786,480.086217 L342.317191,540.003775" id="Path-8"></path>
+            <polyline id="Path-9" points="317.612786 480.086217 289.950612 460.107181 321.762414 396.130493 251.744598 323.756218 261.369922 412.717153 216.87342 436.955257"></polyline>
+            <line x1="217.966835" y1="436.955257" x2="289.950612" y2="460.107181" id="Path-10"></line>
+            <line x1="317.612786" y1="480.086217" x2="373.389712" y2="492.366485" id="Path-11"></line>
+            <polyline id="Path-12" points="317.612786 480.086217 384.626918 431.956085 345.501249 386.758758 321.762414 396.130493"></polyline>
+            <polyline id="Path-13" points="345.501249 386.758758 335.481949 305.831776 251.744598 323.756218"></polyline>
+            <line x1="251.744598" y1="323.756218" x2="216.87342" y2="436.955257" id="Path-14"></line>
+            <line x1="216.87342" y1="436.955257" x2="149.918888" y2="404.182904" id="Path-15"></line>
+            <line x1="251.744598" y1="323.756218" x2="174.890234" y2="372.708434" id="Path-16"></line>
+            <line x1="204.306897" y1="311.908389" x2="175.626918" y2="371.618363" id="Path-17"></line>
+            <line x1="204.306897" y1="311.908389" x2="251.744598" y2="323.756218" id="Path-18"></line>
+            <line x1="251.744598" y1="323.756218" x2="249.925817" y2="271.618363" id="Path-19"></line>
+            <line x1="251.744598" y1="323.756218" x2="345.501249" y2="386.758758" id="Path-20"></line>
+            <line x1="261.369922" y1="412.717153" x2="321.762414" y2="396.130493" id="Path-21"></line>
+            <line x1="107.626918" y1="486.618363" x2="193.641744" y2="479.08824" id="Path-22"></line>
+            <polyline id="Path-23" points="280.626918 578.618363 304.779952 587.618363 351.119852 580.263365 384.626918 587.618363 378.590964 557.062352 387.224161 547.618363 382.847501 505.57763 387.224161 471.2525 384.626918 431.956085"></polyline>
+            <line x1="373.389712" y1="492.366485" x2="382.847501" y2="505.57763" id="Path-24"></line>
+            <polyline id="Path-25" points="351.119852 580.263365 378.590964 557.062352 342.317191 540.003775 304.779952 587.618363"></polyline>
+            <line x1="387.224161" y1="547.618363" x2="384.626918" y2="587.618363" id="Path-28"></line>
+            <polyline id="Path-29" points="249.925817 271.618363 321.762414 265.604181 384.626918 279.966306 333.92554 305.831776"></polyline>
+            <line x1="384.626918" y1="279.966306" x2="377.348233" y2="372.708434" id="Path-30"></line>
+            <polyline id="Path-27" points="149.918888 271.618363 94.2110922 315.622403 130.668538 365.311835 149.918888 404.423823"></polyline>
+            <polyline id="Path-38" points="149.918888 404.376814 62.0374242 420.569081 1.91888784 372.569081"></polyline>
+            <line x1="42.8356142" y1="260.28522" x2="149.918888" y2="271.618363" id="Path-39"></line>
+            <polyline id="Path-40" points="42.8356142 260.28522 4.12691833 286.118363 0.55889449 264.442802"></polyline>
+            <line x1="1.24344979e-13" y1="264.442802" x2="42.8356142" y2="260.28522" id="Path-41"></line>
+            <polyline id="Path-42" points="4.12691833 286.118363 52.0461391 348.232326 94.2110922 315.622403"></polyline>
+            <line x1="94.2110922" y1="315.622403" x2="42.8356142" y2="260.28522" id="Path-43"></line>
+            <line x1="4.12691833" y1="286.118363" x2="2.12691833" y2="372.118363" id="Path-44"></line>
+            <line x1="1.62691833" y1="372.708434" x2="52.0461391" y2="348.232326" id="Path-45"></line>
+            <line x1="52.0461391" y1="348.232326" x2="149.918888" y2="404.423823" id="Path-46"></line>
+            <polyline id="Path-47" points="107.079777 486.618363 10.3370045 509.787224 2.12691833 442.15268 62.0374242 420.569081"></polyline>
+            <line x1="62.0374242" y1="420.569081" x2="107.079777" y2="486.226351" id="Path-48"></line>
+            <line x1="2.12691833" y1="442.15268" x2="2.12691833" y2="372.118363" id="Path-49"></line>
+            <polyline id="Path-50" points="10.3370045 509.787224 1.91888784 587.618363 75.9188878 576.996779 148.818522 587.618363 97.6246517 534.53403 107.079777 486.226351"></polyline>
+            <polyline id="Path-51" points="97.6246517 534.53403 75.9188878 576.996779 10.3370045 509.787224"></polyline>
+            <line x1="97.6246517" y1="534.53403" x2="10.3370045" y2="509.787224" id="Path-52"></line>
+            <line x1="10.3370045" y1="509.787224" x2="62.0374242" y2="420.569081" id="Path-53"></line>
+            <line x1="62.0374242" y1="420.569081" x2="52.0461391" y2="348.232326" id="Path-54"></line>
+            <line x1="148.710481" y1="271.618363" x2="204.306897" y2="311.908389" id="Path-57"></line>
+    </g>
+  </g>
+</svg>
